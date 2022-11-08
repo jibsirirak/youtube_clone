@@ -1,0 +1,39 @@
+.container{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    height: 56px;
+    width: 100%;
+    background-color: #fff;
+    
+    
+}
+.btn{
+    border: 0px solid rgb(197, 195, 195);
+    border-radius: 10px;
+    margin: 10px 5px 12px 15px;
+    padding: 10px;
+    height: 36px;
+    text-align: center;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+.btnAll{
+    border: 0px solid rgb(197, 195, 195);
+    border-radius: 10px;
+    margin: 10px 5px 12px 15px;
+    padding: 0px 14px 0 14px;
+    height: 36px;
+    text-align: center;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background-color: black;
+    color: #fff;
+}
+
+.arrow{
+    margin: 12px 12px 12px 24px;
+}
